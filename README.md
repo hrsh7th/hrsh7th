@@ -1,16 +1,13 @@
-### Hi there 👋
+I'm currently interesing [Language Server Protocol](https://microsoft.github.io/language-server-protocol/specifications/specification-current/) and how to implemente it in Vim/Neovim.
 
-<!--
-**hrsh7th/hrsh7th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Related works
 
-Here are some ideas to get you started:
+- [nvim-compe](https://github.com/hrsh7th/nvim-compe)
+- [vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
+- [vim-vital-vs](https://github.com/hrsh7th/vim-vital-vs)
+- [vscode-langservers-extracted](https://github.com/hrsh7th/vscode-langservers-extracted)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Sponsors
+
+- [GitHub Sponsors](https://github.com/sponsors/hrsh7th)
+- [PayPal.Me](https://paypal.me/hrsh7th)
