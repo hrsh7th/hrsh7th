@@ -2,7 +2,7 @@ I'm currently interesing [Language Server Protocol](https://microsoft.github.io/
 
 #### Related works
 
-- [nvim-compe](https://github.com/hrsh7th/nvim-compe)
+- [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 - [vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
 - [vim-vital-vs](https://github.com/hrsh7th/vim-vital-vs)
 - [vscode-langservers-extracted](https://github.com/hrsh7th/vscode-langservers-extracted)
