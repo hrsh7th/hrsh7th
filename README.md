@@ -1,4 +1,4 @@
-I'm currently interesing [Language Server Protocol](https://microsoft.github.io/language-server-protocol/specifications/specification-current/) and how to implemente it in Vim/Neovim.
+I'm currently interested in the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/specifications/specification-current/) and how to implement it in Vim/Neovim.
 
 #### Related works
 
