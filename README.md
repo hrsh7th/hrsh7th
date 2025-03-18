@@ -1,11 +1,29 @@
-I'm currently interested in the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/specifications/specification-current/) and how to implement it in Vim/Neovim.
+I'm currently interested in implementing the neovim plugins.
 
-#### Related works
+### Works1
 
+- [nvim-pasta](https://github.com/hrsh7th/nvim-pasta)
+    - cyclic yank / paste
+- [nvim-insx](https://github.com/hrsh7th/nvim-insx)
+    - flexible keymapping manager
+- [nvim-dansa](https://github.com/hrsh7th/nvim-dansa)
+    - guessing indentation setting by current buffer
+- [nvim-anydent](https://github.com/hrsh7th/nvim-anydent)
+    - general purpose indentexpr
+- [nvim-deck](https://github.com/hrsh7th/nvim-deck)
+    - files / grep / git / explorer
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
-- [vim-vsnip](https://github.com/hrsh7th/vim-vsnip)
-- [vim-vital-vs](https://github.com/hrsh7th/vim-vital-vs)
-- [vscode-langservers-extracted](https://github.com/hrsh7th/vscode-langservers-extracted)
+    - completion engine
+
+### Works2
+
+- [nvim-gtd](https://github.com/hrsh7th/nvim-gtd)
+    - customizable `gf`
+- [nvim-linkedit](https://github.com/hrsh7th/nvim-linkedit)
+    - LSP textDocument/linkedEditingRange
+- [nvim-automa](https://github.com/hrsh7th/nvim-automa)
+    - automatic macro support
+    - customizable dot-repeat
 
 #### Sponsors
 
